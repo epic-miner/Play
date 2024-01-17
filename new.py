@@ -1,6 +1,7 @@
 __all__ =[]#line:1
 import asyncio #line:3
-from playwright .async_api import async_playwright #line:4
+from playwright .async_api 
+import async_playwright #line:4
 import nest_asyncio #line:5
 import random #line:6
 import sys #line:7
